@@ -9,9 +9,8 @@
   - [Código de Arduino IDE](#código-arduino-ide)
   - [Parches de Pure Data](#parches-de-pure-data)
 - [Resultados](#resultados)
-- [Conclusiones](#conclusiones)
 - [Descargar proyecto](#descargar-proyecto)
-- [Enlaces](#enlaces)
+- [Referencias](#referencias)
 
 ## Resumen
 El proyecto trata sobre el uso de la Pi Pico para detectar la distancia de los sensores ultrasonicos y utilizar esos datos en el programa Pure Data para hacer un sintetizador.
@@ -95,6 +94,7 @@ Ya por fin aprendí a hacer sub parches y hacer que funcionen como objetos, por 
 ## Resultados
 Grabé un [video](https://www.youtube.com/watch?v=4IBiFuLFj-E&t) para demostrar el funcionamiento del proyecto. Otro resultado inesperado del proyecto fue encontrar la librería Control-Surface, con esta se hace más sencillo el mandar mensajes MIDI a la serial.
 
+## Descargar proyecto
 
 ## Referencias
 - [Como usar el sensor ultrasonico: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/)
