@@ -95,6 +95,6 @@ Ya por fin aprendí a hacer sub parches y hacer que funcionen como objetos, por 
 Grabé un [video](https://www.youtube.com/watch?v=4IBiFuLFj-E&t) para demostrar el funcionamiento del proyecto. Otro resultado inesperado del proyecto fue encontrar la librería Control-Surface, con esta se hace más sencillo el mandar mensajes MIDI a la serial.
 
 ## Descargar proyecto
-
+Archivo:  [proyecto.7z](proyecto.7z)
 ## Referencias
 - [Como usar el sensor ultrasonico: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/)
