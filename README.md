@@ -1,7 +1,17 @@
 # Pi Pico Theremin Simple
-<<<<<<< HEAD
+
 ### Un clon del theremín bien simple hecho con la Pi Pico y dos sensores ultrasonicos
 
+- [Resumen](#resumen)
+- [Introducción](#introducción)
+- [Desarrollo](#desarrollo)
+  - [Circuito](#circuito)
+  - [Código de Arduino IDE](#código-arduino-ide)
+  - [Parches de Pure Data](#parches-de-pure-data)
+- [Resultados](#resultados)
+- [Conclusiones](#conclusiones)
+- [Descargar proyecto](#descargar-proyecto)
+- [Enlaces](#enlaces)
 
 ## Resumen
 El proyecto trata sobre el uso de la Pi Pico para detectar la distancia de los sensores ultrasonicos y utilizar esos datos en el programa Pure Data para hacer un sintetizador.
@@ -82,9 +92,9 @@ void loop() {
 ### Parches de Pure Data
 Ya por fin aprendí a hacer sub parches y hacer que funcionen como objetos, por lo que se cuentan con tres parches, el que abre el puerto de comunicación serial con la Pi Pico, el que dice que frecuencia de la nota se va utilizar dependiendo del valor que se lee del sensor, y el principal que junta estos dos y contiene los objetos para hacer funcionar el sintetizador theremin.
 
+## Resultados
+Grabé un [video](https://www.youtube.com/watch?v=4IBiFuLFj-E&t) para demostrar el funcionamiento del proyecto. Otro resultado inesperado del proyecto fue encontrar la librería Control-Surface, con esta se hace más sencillo el mandar mensajes MIDI a la serial.
 
 
 ## Referencias
 - [Como usar el sensor ultrasonico: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/)
-=======
->>>>>>> c9549c54ee1acabc3f1f05d60a9695436d7e6635
