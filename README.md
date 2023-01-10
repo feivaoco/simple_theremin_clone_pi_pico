@@ -1,4 +1,5 @@
 # Pi Pico Theremin Simple
+<<<<<<< HEAD
 ### Un clon del theremín bien simple hecho con la Pi Pico y dos sensores ultrasonicos
 
 
@@ -85,3 +86,5 @@ Ya por fin aprendí a hacer sub parches y hacer que funcionen como objetos, por 
 
 ## Referencias
 - [Como usar el sensor ultrasonico: https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/](https://randomnerdtutorials.com/complete-guide-for-ultrasonic-sensor-hc-sr04/)
+=======
+>>>>>>> c9549c54ee1acabc3f1f05d60a9695436d7e6635
