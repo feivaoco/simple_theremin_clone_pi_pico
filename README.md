@@ -25,7 +25,7 @@ Había visto que usaban dos resistencias en el pin de TRIGGER por alguna razón 
 Como siempre, el circuito lo hice en el drawio porque no encuentro otro programa así más simple con el que pueda dibujarlos, además de que me permite hacer figuras personalizadas, nada más me falta aprender a hacer conexiones personalizadas, jeje.
 ### Código Arduino IDE
 Hay casos en el que creo que no podré poner todo el codígo, tengo que ver como hacer que solamente sea una ventanita el codígo y que no abarque todo.
-```arduino
+```c
 int trigPin = 15;    // Trigger
 int echoPin = 14;    // Echo
 long duration, cm, inches;
